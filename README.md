@@ -1,4 +1,4 @@
-# CS-300-Portfolio
+# CS-300-Portfolio Project (Data Structures and Algorithms: Analysis and Design)
 
 *What was the problem you were solving in the projects for this course?
 The main problem was that we needed to create a means of sorting various data while utilizing different models such as binary trees and hash tables. This data also needed to be readily accessible for the user to view and alter. 
